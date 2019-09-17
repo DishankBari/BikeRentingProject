@@ -1,5 +1,5 @@
 # BikeRentingProject
-This project predicts the daily count of bike rentals in a city based on the environmental conditions.
+The objective of this Case is to Predication of bike rental count on daily based on the environmental and seasonal settings. 
 
 # PROBLEM STATEMENT
 The objective of this project is to predict of bike rental count on daily based on the environmental and seasonal condition or settings. The given dataset has 731 observations and 16 variables in that 15 predictors and 1 target variable. The 15 predictors are the various environmental and seasonal factors like season, humidity, temperature etc. So we need to build a production-ready prediction model that predict the estimate count or demand of bikes on a particular day based on environmental and season condition
